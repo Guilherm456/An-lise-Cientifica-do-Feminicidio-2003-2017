@@ -76,7 +76,7 @@ dev.off() #fecha arquivo
 
 j<-2
 
-#Vai criar um PDF com a regressão de cada Estado
+#Vai criar um PDF com os gráficos dos estados que tiveram um R² ajustado menor que 0,7
 pdf(file="R2MenorQue70.pdf")
 par(mfrow=c(3,4))
 

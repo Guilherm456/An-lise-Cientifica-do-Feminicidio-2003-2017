@@ -1,2 +1,2 @@
   Este algoritmo foi criado no intuito de representar os dados de um estudo executado no ano de 2020, representando os dados de feminicidios corridos ao decorrer dos anos de 2003 até 2017.
-  
+  Com os dados do número de casos de homicidios femininos, foi criado um arquivo .CSV para armazenar estas informações e para facilitar a leitura pelo programa (R Software), e a partir da leitura do arquivo pelo programa, foram criados boxplot para representar o número dos casos no Brasil e também criado um gráfico com a tendência de regressão linear simples em cada de um dos estados.
